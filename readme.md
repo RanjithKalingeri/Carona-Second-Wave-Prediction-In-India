@@ -11,7 +11,7 @@ see This Report for clear understanding
 ## Project Name :	         Predicting Carona Second Wave In India 
 ## Developer Name :	       Ranjith Kalingeri - 9182522753 - ranji.iitb@gmail.com - doing MTECH in CS in IIIAllahabad as of 02-06-2021. 
 ## Upload Date :	          02-06-2021
-## project Platform :      pyhton
+## project Platform :      python
 ## Programming Language :	 python
 ## IDE Tool :	             google collab
 ## Database :	             excel file 
