@@ -1,7 +1,7 @@
 
 ## Description 
 
-This Project was developed with an intension to predict carona second wave in india. 
+This is a Machine Learning Project which was developed with an intension to predict carona second wave in india. 
 see This Report for clear understanding 
 
 [ML_PROJECT.pdf](https://github.com/RanjithKalingeri/Carona-Second-Wave-Prediction-In-India/files/6582933/ML_PROJECT.pdf)
